@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/move_app_2019/static/css/main.05d37451.chunk.css",
-    "main.js": "/move_app_2019/static/js/main.c5eb8dd6.chunk.js",
-    "main.js.map": "/move_app_2019/static/js/main.c5eb8dd6.chunk.js.map",
-    "runtime-main.js": "/move_app_2019/static/js/runtime-main.f98b5c4e.js",
-    "runtime-main.js.map": "/move_app_2019/static/js/runtime-main.f98b5c4e.js.map",
-    "static/js/2.c3d73534.chunk.js": "/move_app_2019/static/js/2.c3d73534.chunk.js",
-    "static/js/2.c3d73534.chunk.js.map": "/move_app_2019/static/js/2.c3d73534.chunk.js.map",
-    "index.html": "/move_app_2019/index.html",
-    "precache-manifest.5cb3dc20583f005fbbc95a09ef721a66.js": "/move_app_2019/precache-manifest.5cb3dc20583f005fbbc95a09ef721a66.js",
-    "service-worker.js": "/move_app_2019/service-worker.js",
-    "static/css/main.05d37451.chunk.css.map": "/move_app_2019/static/css/main.05d37451.chunk.css.map",
-    "static/js/2.c3d73534.chunk.js.LICENSE.txt": "/move_app_2019/static/js/2.c3d73534.chunk.js.LICENSE.txt"
+    "main.css": "/hyowoog/movie_app_2019/static/css/main.05d37451.chunk.css",
+    "main.js": "/hyowoog/movie_app_2019/static/js/main.c5eb8dd6.chunk.js",
+    "main.js.map": "/hyowoog/movie_app_2019/static/js/main.c5eb8dd6.chunk.js.map",
+    "runtime-main.js": "/hyowoog/movie_app_2019/static/js/runtime-main.2b8804c4.js",
+    "runtime-main.js.map": "/hyowoog/movie_app_2019/static/js/runtime-main.2b8804c4.js.map",
+    "static/js/2.c3d73534.chunk.js": "/hyowoog/movie_app_2019/static/js/2.c3d73534.chunk.js",
+    "static/js/2.c3d73534.chunk.js.map": "/hyowoog/movie_app_2019/static/js/2.c3d73534.chunk.js.map",
+    "index.html": "/hyowoog/movie_app_2019/index.html",
+    "precache-manifest.7c25754b25b3122a82132d5c66cf723e.js": "/hyowoog/movie_app_2019/precache-manifest.7c25754b25b3122a82132d5c66cf723e.js",
+    "service-worker.js": "/hyowoog/movie_app_2019/service-worker.js",
+    "static/css/main.05d37451.chunk.css.map": "/hyowoog/movie_app_2019/static/css/main.05d37451.chunk.css.map",
+    "static/js/2.c3d73534.chunk.js.LICENSE.txt": "/hyowoog/movie_app_2019/static/js/2.c3d73534.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f98b5c4e.js",
+    "static/js/runtime-main.2b8804c4.js",
     "static/js/2.c3d73534.chunk.js",
     "static/css/main.05d37451.chunk.css",
     "static/js/main.c5eb8dd6.chunk.js"
